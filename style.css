@@ -1,8 +1,13 @@
-h1
-    color: orange
+h1{
+    color: orangered;
+}
 
-body
-        backgrounnd-color: bisque ;
-h2
-        color: olive;
-        font size: 20px
+
+body{
+    background-color: aqua;
+}
+
+h2{
+    color: blue;
+    font-size: 20px;
+}
